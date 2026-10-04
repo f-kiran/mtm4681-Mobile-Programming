@@ -18,3 +18,8 @@ easy to find and can be run independently where appropriate.
 Install the [Flutter SDK](https://docs.flutter.dev/get-started/install) and
 verify your setup with `flutter doctor`. Each Flutter project can then be run
 from its own directory with `flutter run`.
+
+### Flutter setup videos
+
+- [Windows](https://www.youtube.com/watch?v=mMeQhLGD-og)
+- [Mac](https://www.youtube.com/watch?v=QG9bw4rWqrg)
