@@ -24,4 +24,4 @@ from its own directory with `flutter run`.
 - [Windows](https://www.youtube.com/watch?v=mMeQhLGD-og)
 - [Mac](https://www.youtube.com/watch?v=QG9bw4rWqrg)
 
-The syllabus is available (here](https://drive.google.com/file/d/1C-DStR3jiPMkB4_ZKaVsWtaYugyYj2wa/view?usp=sharing).
+The syllabus is available [here](https://drive.google.com/file/d/1C-DStR3jiPMkB4_ZKaVsWtaYugyYj2wa/view?usp=sharing).
