@@ -25,3 +25,5 @@ from its own directory with `flutter run`.
 - [Mac](https://www.youtube.com/watch?v=QG9bw4rWqrg)
 
 The syllabus is available [here](https://drive.google.com/file/d/1C-DStR3jiPMkB4_ZKaVsWtaYugyYj2wa/view?usp=sharing).
+
+To form teams for the semester project, please use this link [here](https://docs.google.com/spreadsheets/d/1GnjN3GpnNFH0FYvAchAR37_YMERrQkqk0QLwlQDcjXI/edit?usp=sharing)
